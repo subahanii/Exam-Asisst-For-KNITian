@@ -1,2 +1,3 @@
 # Exam-Asisst-For-KNITian
-Exam,notes,news portal for asissting students at KNIT's sultanpur. 
+Exam,notes,news portal for assisting students at KNIT's sultanpur. 
+website: [KniceAssist.com](http://kniceassist.com/)
